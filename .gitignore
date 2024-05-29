@@ -2,3 +2,7 @@ bin
 obj
 .idea
 .DS_Store
+/.vs/RealTimeChatApp/config/applicationhost.config
+/.vs/RealTimeChatApp/DesignTimeBuild/.dtbcache.v2
+/.vs/RealTimeChatApp/FileContentIndex/4cc852d0-90a6-4dad-a9e8-328b262494e5.vsidx
+/.vs/RealTimeChatApp/v17/.suo
